@@ -60,5 +60,7 @@ Building **Workloom** was an exciting journey, and I’m still learning along th
 
 ![Screenshot 2024-04-22 212212](https://github.com/user-attachments/assets/b2820d02-fca1-4425-a842-23cfaa6706f5)
 
+![Screenshot 2024-04-22 215548](https://github.com/user-attachments/assets/7f357964-47eb-42ec-88cd-ce6f969ad5ed)
+
 
 
