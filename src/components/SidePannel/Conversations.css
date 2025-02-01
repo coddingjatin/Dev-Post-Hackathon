@@ -1,0 +1,27 @@
+.conversations-container {
+  /* Styling for the container */
+  height: 420px;
+  overflow-y: auto;
+}
+
+/* Smaller screen height */
+@media (max-width: 640px) {
+  .conversations-container {
+    /* Styling for small screens */
+    height: 140px; /* Adjust the height as needed */
+  }
+}
+
+/* Styling for the scrollbar */
+.conversations-container::-webkit-scrollbar {
+  width: 3px;
+}
+
+.conversations-container::-webkit-scrollbar-thumb {
+  background-color: #888; /* color of the thumb */
+  border-radius: 4px; /* roundness of the thumb */
+}
+
+.conversations-container::-webkit-scrollbar-thumb:hover {
+  background-color: purple; /* color of the thumb on hover */
+}
