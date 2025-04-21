@@ -20,7 +20,7 @@ That’s how **Workloom** was born—a **simple, fast, and secure** chat platfor
 ✔️ **Group Chat Support** – Chat in private or public rooms.  
 ✔️ **Typing Indicator** – See when someone is typing.  
 ✔️ **Chat History** – Messages are stored in **MongoDB** for persistence.  
-✔️ **Clean UI** – Built with **Tailwind CSS** for a sleek look.  
+✔️ **Clean UI** – Built with **Tailwind CSS** for a sleek look. 
 
 ## 🏗️ How I Built It  
 - Started with a **React frontend**, using **Context API** to manage authentication.  
