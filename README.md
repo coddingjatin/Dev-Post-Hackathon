@@ -63,4 +63,12 @@ Building **Workloom** was an exciting journey, and I’m still learning along th
 ![Screenshot 2024-04-22 215548](https://github.com/user-attachments/assets/7f357964-47eb-42ec-88cd-ce6f969ad5ed)
 
 
+## 🏆 Recognition
 
+<p align="center">
+  <img src="Devpost.png" width="800"/>
+  <br/>
+  <em>Won The Swags Kit</em>
+</p>
+
+---
