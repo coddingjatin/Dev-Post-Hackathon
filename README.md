@@ -72,3 +72,6 @@ Building **Workloom** was an exciting journey, and I’m still learning along th
 </p>
 
 ---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
