@@ -4,7 +4,7 @@
 I’ve always been fascinated by **real-time communication**—how apps like WhatsApp and Slack make conversations seamless. That got me thinking:  
 *"Why not build my own chat app?"*  
 
-That’s how **Workloom** was born—a **simple, fast, and secure** chat platform where users can log in, connect, and chat in real time.  
+That’s how **Workloom** was born—a **simple, fast, and secure** chat platform where users can log in, connect, and chat in real time. 
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js + Tailwind CSS  
